@@ -25,7 +25,7 @@ Os principais campos são o ID de cada entidade, com ela relacionamos facilmente
 ## Como essas entidades estão relacionadas?
 
 ```sh
-As entidades sao relacionadas pelos campos ID, relacionando outras entidades {1:1 && N:1}
+As entidades sao relacionadas pelos campo ID, relacionando outras entidades sendo {1:1 && N:1}
 ```
 
 
