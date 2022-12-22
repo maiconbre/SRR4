@@ -4,7 +4,7 @@
 <div align='center'><h2> Projeto individual modulo 4 do curso de Dev. Web FullStack</h2> </div>
 <br>
 
-![SSR](https://raw.githubusercontent.com/maiconbre/SRR4/main/SSR.jpg?token=GHSAT0AAAAAAB4SCPWXKLI4AWXKJJK7I7EEY5CJ42A)
+![SSR](https://github.com/maiconbre/SRR4/blob/main/SSR.jpg)
 
 ### Existem outras entidades além dessas três?
 
